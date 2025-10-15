@@ -20,3 +20,7 @@ I'm an aviation YouTuber and avgeek that likes to do a lot of stuff, including m
 - Music
 - Making some websites and a brand to unify my online presence
 - Learning stuff
+
+## Stuff I want to do, but I don't have the things needed to do so
+
+- Build a PC
