@@ -1,16 +1,22 @@
-## Hi there 👋
+# About me
 
-<!--
-**BlueAirways/BlueAirways** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who I am
 
-Here are some ideas to get you started:
+I'm an aviation YouTuber and avgeek that likes to do a lot of stuff, including messing around with technology, even though I know little to nothing about it (Well I do know something, but I'm far from a pro).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+- Aviation
+- Geography/History
+- Ships (Mostly sunken ones)
+- Technology/Electronics
+- Music
+- Art
+- Etc.
+
+## What I'm currently working on
+
+- YouTube vidoes
+- Music
+- Making some websites and a brand to unify my online presence
+- Learning stuff
